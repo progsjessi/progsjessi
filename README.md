@@ -1,4 +1,4 @@
-<table border="1305000">
+<table border="1350000">
   <tr>
     <td>Test</td>
     <td>Bug?</td>
