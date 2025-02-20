@@ -1,6 +1,6 @@
 test
 
-<table border="9999999999">
+<table border="99999999">
   <tr>
     <td>Test</td>
     <td>Bug?</td>
