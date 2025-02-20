@@ -1,8 +1,3 @@
-test
-
-<table border="9999999999">
-  <tr>
-    <td>Test</td>
-    <td>Bug?</td>
-  </tr>
+<table border="999999999">
+  <tr><td>Hidden</td></tr>
 </table>
