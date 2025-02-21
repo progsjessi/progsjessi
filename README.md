@@ -1,4 +1,4 @@
 
 <kbd>
-  <table border="1111" align="right">
+  <table border="11111111" align="right">
   <kbd>
