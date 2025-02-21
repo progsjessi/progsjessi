@@ -1,3 +1,3 @@
-<table border="17111111" align="justified">
+<table border="17111111" align="left">
   
 
