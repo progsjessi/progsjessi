@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <table border="500" align="left"></table>
   <tr><td>
@@ -9,3 +9,5 @@
     </table>
   </td></tr>
 </table>
+
+</div>
