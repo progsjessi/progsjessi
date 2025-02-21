@@ -1,8 +1,8 @@
-<table style="width:50vw; height:500vh;"></table>
 
-<table border="500" align="left">
+
+<table border="500" align="left"></table>
   <tr><td>
-    <table border="500" align="right">
+    <table border="500" align="right"></table>
       <tr><td>
         <table border="500"></table>
       </td></tr>
