@@ -1,4 +1,4 @@
-<table style="width:500vw; height:500vh;"></table>
+<table style="width:50vw; height:500vh;"></table>
 
 <table border="300">
   <tr><td>
